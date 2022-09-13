@@ -10,9 +10,9 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   AZURE_RESOURCE_GROUP: cd-with-actions
-  AZURE_APP_PLAN: <kenchuks44>-ttt-deployment
+  AZURE_APP_PLAN: kenchuks44-ttt-deployment
   AZURE_LOCATION: '"Central US"'
-  AZURE_WEBAPP_NAME: <kenchuks44>-ttt-app
+  AZURE_WEBAPP_NAME: kenchuks44-ttt-app
   ###############################################
   
 jobs:
